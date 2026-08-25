@@ -5,7 +5,7 @@ These are example notes, courtesy of your instructor Professor Abuissa.
 **Instructions:** 
 1. fork this Github repository (look in the top right above `<> Code`)
 2. create, edit, and commit your Markdown file in _your_ branch
-     1. title your notes `month.day-firstname_lastname.md`
+     1. title your notes `month-day-firstname_lastname.md`
 4. create a pull request
 5. I will review your file and email you about revisions, or otherwise merge it
 
