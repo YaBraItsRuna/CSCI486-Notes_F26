@@ -1,6 +1,6 @@
 Recall: an Agent is a mapping from a list of percepts to an action
 
-	Ex. The Roomba can tell whether the room is dirty or clean,and which room the Roomba is in.
+Ex. The Roomba can tell whether the room is dirty or clean,and which room the Roomba is in.
 
 Recall: Rationality is taking the action expected to maximize the sum performance measure given the percepts and preexisting knowledge.
 
